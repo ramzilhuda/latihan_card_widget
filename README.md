@@ -3,6 +3,7 @@
 Dimana Ada 2 buah Card yang di bungkus oleh ListView
 
 Tampilan : 
+![Screenshot_2020-08-05-16-12-08-75_a42ac377e98b9e1dab6bf5c1dba21063 1](https://user-images.githubusercontent.com/60292040/89394894-d29e0a80-d736-11ea-8397-23c897e1e83e.png)
 
 
 ## Getting Started
