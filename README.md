@@ -1,6 +1,9 @@
 # latihan_card_widget
 
-A new Flutter project.
+Dimana Ada 2 buah Card yang di bungkus oleh ListView
+
+Tampilan : 
+
 
 ## Getting Started
 
